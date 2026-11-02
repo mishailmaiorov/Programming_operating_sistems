@@ -14,3 +14,4 @@ Data
 <p>Проекты</p>
 
 - [Ai-site](https://github.com/mishailmaiorov/new_site.git)
+- [Командная работа](https://github.com/souleater111/Voyago.git)
