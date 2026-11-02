@@ -1,4 +1,4 @@
-# repozitori
+# Programming_operating_sistems
 
 Тут будут практические работы, конспекты.
 
