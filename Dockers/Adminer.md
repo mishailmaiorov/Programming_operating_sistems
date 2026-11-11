@@ -20,6 +20,7 @@ docker run -d `
   -p 8084:8080 `
   adminer:latest
 ```
+<img src="/Dockers/img/Adminer 2.png">
 
 Запустите **Adminer** в **Git-Bash/Linux/WSL 2.0/Mac**
 ```shell
