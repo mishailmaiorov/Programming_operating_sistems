@@ -20,6 +20,8 @@ mkdir my-site && cd my-site && touch index.html
 echo '<h1>Hello Docker!</h1>' > index.html
 ```
 
+![alt text](/Dockers/img/A+SS%201.png)
+
 > Чтобы в веб-странице поддерживался русский язык, вставьте тэг `<meta charset="UTF-8">`
 
 #### Запустите **Apache** с монтированием папки (для Windows)
