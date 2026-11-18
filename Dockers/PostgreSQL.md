@@ -20,6 +20,8 @@ docker run -d `
   postgres:alpine
 ```
 
+![alt text](/Dockers/img/)
+
 > Если эта команда в Powershell не работает, то удалите из кода апострофы `
 
 в **Git-Bash/Linux/WSL 2.0/Mac**
