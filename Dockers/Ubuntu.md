@@ -14,6 +14,7 @@
 docker run -it --rm ubuntu:latest /bin/bash
 ```
 ![alt text](/Dockers/img/U%201.png)
+
 > Контейнер удалится автоматически (`--rm`)
 
 > Если получите такую ошибку:
